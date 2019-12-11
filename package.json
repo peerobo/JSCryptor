@@ -1,13 +1,13 @@
 {
   "name": "jscryptor",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Javascript implementation of RNCryptor",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "dependencies": {
-    "mcrypt": "^0.1"
+    "cryptian": "^0.0.3"
   },
   "devDependencies": {
     "chai": "^3.5.0",
